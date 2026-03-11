@@ -138,11 +138,6 @@ enableEmoji = true
     title = "Skills & Interests"
     url = "/skills/"
     weight = 3
-  [[menu.header]]
-    name = "CV"
-    title = "Resume / CV"
-    url = "/cv/"
-    weight = 4
 
   # Configure footer
   [[menu.footer]]

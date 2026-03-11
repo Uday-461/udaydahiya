@@ -2,7 +2,7 @@
 title: "AI DJ v4"
 subtitle: "Deep Learning DJ Transitions with CNNs + Transformers"
 excerpt: "A system that learns professional DJ mixing curves from real mixes, then uses deep learning to predict and apply automatic transitions between any two tracks."
-date: 2024-03-11
+date: 2026-03-05
 author: "Uday Dahiya"
 draft: false
 tags:

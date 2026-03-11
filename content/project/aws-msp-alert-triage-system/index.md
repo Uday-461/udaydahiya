@@ -2,7 +2,7 @@
 title: "AWS MSP Alert Triage System"
 subtitle: "AI-Powered Real-Time Alert Management for MSPs"
 excerpt: "Full-stack platform that auto-triages AWS CloudWatch alerts with RAG chatbot support and auto-remediation, achieving 90% suppression and 40% ticket deflection."
-date: 2025-03-11
+date: 2025-11-02
 author: "Uday Dahiya"
 draft: false
 tags:

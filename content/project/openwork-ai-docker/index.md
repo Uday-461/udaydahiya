@@ -2,7 +2,7 @@
 title: "OpenWork AI Docker"
 subtitle: "Self-Hosted Multi-Tenant AI Workspace for Organizations"
 excerpt: "Enterprise-grade platform extending OpenCode (agentic AI coding) and OpenWork (browser IDE) from single-user apps into a fully self-hosted, SSO-gated multi-tenant system with RBAC and on-demand container isolation."
-date: 2025-03-11
+date: 2026-02-19
 author: "Uday Dahiya"
 draft: false
 tags:

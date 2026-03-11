@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  Hi, I'm Uday. I work at the intersection of **product engineering and AI** to solve real-world problems.
+  I work at the intersection of **product engineering and AI** to solve real-world problems.
 
   **Professionally**, I embed within client and product teams to implement, customize, and deploy complex AI solutions. I bridge the gap between product engineering and real-world needs—handling everything from debugging to system architecture to ensure successful deployment.
 

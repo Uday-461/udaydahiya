@@ -1,0 +1,16 @@
+name = "udaydahiya"
+type = "javascript"
+account_id = "9a2ca939a9499f8b8b0d07296ee1ad9b"
+workers_dev = false
+
+[env.production]
+name = "udaydahiya-prod"
+
+[build]
+command = "hugo --minify"
+cwd = "./"
+destination = "public"
+
+[[routes]]
+pattern = "udaydahiya.org/*"
+zone_name = "udaydahiya.org"
